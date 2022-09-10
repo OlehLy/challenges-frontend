@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://OlehLy.github.com/challenges-frontend/qr-code-component/index.html
+- Solution URL: https://olehly.github.com/challenges-frontend/qr-code-component/index.html
 
 ### Built with
 
